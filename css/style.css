@@ -97,11 +97,6 @@ ul {
   background-color: #bc8e5c;
 }
 
-ul li a {
-  color: white;
-  font-size: 18px;
-}
-
 ul:hover {
   background-color: #bc8e5c7e;
   box-shadow: 0px 0px 5px 0px #bc8e5c;
